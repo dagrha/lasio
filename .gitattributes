@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 tests/examples/* linguist-vendored=true
 *.las linguist-detectable=false
+=======
+tests/examples/* linguist-vendored
+>>>>>>> upstream/master

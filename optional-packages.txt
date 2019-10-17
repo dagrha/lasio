@@ -3,3 +3,7 @@ cchardet
 chardet
 openpyxl
 argparse
+pytest>=3.6
+pytest-cov
+coverage
+codecov
